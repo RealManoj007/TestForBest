@@ -8,7 +8,6 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1> Adding data on working directory and this will compared with staged</h1>
         <p> Changes made to show changes in commit</p>
-        <p>adding one thing more</p>
         <a
           className="App-link"
           href="https://reactjs.org"
