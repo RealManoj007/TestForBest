@@ -6,9 +6,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <h1> Adding data on working directory and this will compared with staged</h1>
+        <p> Changes made to show changes in commit</p>
         <a
           className="App-link"
           href="https://reactjs.org"
